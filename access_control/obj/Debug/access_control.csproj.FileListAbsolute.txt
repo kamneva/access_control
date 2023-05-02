@@ -1,0 +1,45 @@
+D:\IDB-16-02\защита информации\access_control\access_control\bin\Debug\access_control.exe.config
+D:\IDB-16-02\защита информации\access_control\access_control\obj\Debug\access_control.csprojResolveAssemblyReference.cache
+D:\IDB-16-02\защита информации\access_control\access_control\obj\Debug\access_control.AboutBox1.resources
+D:\IDB-16-02\защита информации\access_control\access_control\obj\Debug\access_control.Form1.resources
+D:\IDB-16-02\защита информации\access_control\access_control\obj\Debug\access_control.logForm.resources
+D:\IDB-16-02\защита информации\access_control\access_control\obj\Debug\access_control.Properties.Resources.resources
+D:\IDB-16-02\защита информации\access_control\access_control\obj\Debug\access_control.csproj.GenerateResource.Cache
+D:\IDB-16-02\защита информации\access_control\access_control\bin\Debug\access_control.exe
+D:\IDB-16-02\защита информации\access_control\access_control\bin\Debug\access_control.pdb
+D:\IDB-16-02\защита информации\access_control\access_control\obj\Debug\access_control.exe
+D:\IDB-16-02\защита информации\access_control\access_control\obj\Debug\access_control.pdb
+D:\IDB-16-02\защита информации\access_control\access_control\obj\Debug\access_control.addUserForm.resources
+D:\IDB-16-02\защита информации\access_control\access_control\obj\Debug\access_control.changePasswordForm.resources
+E:\labs\7sem\protinf\access_control\access_control\bin\Debug\access_control.exe.config
+E:\labs\7sem\protinf\access_control\access_control\bin\Debug\access_control.exe
+E:\labs\7sem\protinf\access_control\access_control\bin\Debug\access_control.pdb
+E:\labs\7sem\protinf\access_control\access_control\obj\Debug\access_control.csprojResolveAssemblyReference.cache
+E:\labs\7sem\protinf\access_control\access_control\obj\Debug\access_control.AboutBox1.resources
+E:\labs\7sem\protinf\access_control\access_control\obj\Debug\access_control.addUserForm.resources
+E:\labs\7sem\protinf\access_control\access_control\obj\Debug\access_control.changePasswordForm.resources
+E:\labs\7sem\protinf\access_control\access_control\obj\Debug\access_control.Form1.resources
+E:\labs\7sem\protinf\access_control\access_control\obj\Debug\access_control.logForm.resources
+E:\labs\7sem\protinf\access_control\access_control\obj\Debug\access_control.Properties.Resources.resources
+E:\labs\7sem\protinf\access_control\access_control\obj\Debug\access_control.csproj.GenerateResource.Cache
+E:\labs\7sem\protinf\access_control\access_control\obj\Debug\access_control.csproj.CoreCompileInputs.cache
+E:\labs\7sem\protinf\access_control\access_control\obj\Debug\access_control.exe
+E:\labs\7sem\protinf\access_control\access_control\obj\Debug\access_control.pdb
+E:\labs\7sem\protinf\access_control\access_control\obj\Debug\access_control.showUserForm.resources
+E:\labs\7sem\protinf\access_control\access_control\obj\Debug\access_control.dbDecryptForm.resources
+C:\Users\olech\OneDrive\Desktop\access_control\access_control\bin\Debug\access_control.exe.config
+C:\Users\olech\OneDrive\Desktop\access_control\access_control\bin\Debug\access_control.exe
+C:\Users\olech\OneDrive\Desktop\access_control\access_control\bin\Debug\access_control.pdb
+C:\Users\olech\OneDrive\Desktop\access_control\access_control\obj\Debug\access_control.addUserForm.resources
+C:\Users\olech\OneDrive\Desktop\access_control\access_control\obj\Debug\access_control.changePasswordForm.resources
+C:\Users\olech\OneDrive\Desktop\access_control\access_control\obj\Debug\access_control.dbDecryptForm.resources
+C:\Users\olech\OneDrive\Desktop\access_control\access_control\obj\Debug\access_control.Form1.resources
+C:\Users\olech\OneDrive\Desktop\access_control\access_control\obj\Debug\access_control.logForm.resources
+C:\Users\olech\OneDrive\Desktop\access_control\access_control\obj\Debug\access_control.Properties.Resources.resources
+C:\Users\olech\OneDrive\Desktop\access_control\access_control\obj\Debug\access_control.showUserForm.resources
+C:\Users\olech\OneDrive\Desktop\access_control\access_control\obj\Debug\access_control.csproj.GenerateResource.cache
+C:\Users\olech\OneDrive\Desktop\access_control\access_control\obj\Debug\access_control.csproj.CoreCompileInputs.cache
+C:\Users\olech\OneDrive\Desktop\access_control\access_control\obj\Debug\access_control.exe
+C:\Users\olech\OneDrive\Desktop\access_control\access_control\obj\Debug\access_control.pdb
+C:\Users\olech\OneDrive\Desktop\access_control\access_control\obj\Debug\access_control.csproj.AssemblyReference.cache
+C:\Users\olech\OneDrive\Desktop\access_control\access_control\obj\Debug\access_control.csproj.SuggestedBindingRedirects.cache
